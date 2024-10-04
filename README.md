@@ -20,3 +20,8 @@ _texto italica_
 ***negritas italica***
 
 ![Coding imagen](https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50)
+
+![Coding imagen](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb
+
+![image](https://github.com/user-attachments/assets/eaa36870-62f9-49a0-99ae-72a323fe4e9b)
+)
