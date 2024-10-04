@@ -21,6 +21,5 @@ _texto italica_
 
 ![Coding imagen](https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50)
 
-![Coding imagen](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb
 
 
