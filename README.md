@@ -19,4 +19,4 @@
 _texto italica_
 ***negritas italica***
 
-![Coding imágen](https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50)
+![Coding imagen](https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50)
